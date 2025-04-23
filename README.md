@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahiryararif&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahiryarArif&show_icons=true&theme=radical)
 
 ---
 
