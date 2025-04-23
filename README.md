@@ -12,13 +12,13 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=FFFFFF)
 
 **Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=FFFFFF)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF)
 
 **Blockchain & Tools:**  
 ![EtherJS](https://img.shields.io/badge/Ether.js-3C3C3D?style=flat&logo=ethereum)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF)
 
 ---
 
