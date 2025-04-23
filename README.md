@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shahiryar-arif-17b944120/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:shahiryararif@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-green?style=flat)](https://your-portfolio-link.com) *(replace with actual link)*
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-green?style=flat)](https://your-portfolio-link.com)
 
 ## 🚀 Technical Skills
 
@@ -42,11 +42,11 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahiryararif&show_icons=true&theme=radical) *(replace `shahiryararif`)*
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahiryararif&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Let's Connect
 - **Portfolio:** [yourwebsite.com](https://your-portfolio-link.com)  
-- **LinkedIn:** [/in/Shahiryar-Arif](https://linkedin.com/in/Shahiryar-Arif)  
+- **LinkedIn:** [/in/Shahiryar-Arif](https://www.linkedin.com/in/shahiryar-arif-17b944120/)
 - **Email:** shahiryararif@gmail.com  
