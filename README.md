@@ -28,11 +28,6 @@
 - Implemented wallet connections & NFT minting for 50K+ users  
 - Built React dashboard with real-time analytics ([Demo](#) | [Code](#))  
 
-### 2. Energy Efficiency Platform (EnE System)
-**Tech:** NestJS, PostgreSQL, AWS  
-- Reduced energy wastage by 40% via gamification  
-- Led backend architecture redesign ([Case Study](#))  
-
 ### 3. SuiteCRM QuickBooks Integration (Rolustech)
 **Tech:** PHP, SuiteCRM, REST APIs  
 - Automated 1M+ transactions for enterprise clients  
