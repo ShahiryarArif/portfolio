@@ -23,10 +23,13 @@
 
 ## 💼 Highlighted Projects
 
-### 1. Blockchain Event Ticketing System (TKxel)
+### 1. Blockchain Event Ticketing System (Tkxel)
 **Tech:** Next.js, EtherJS, Chart.js  
 - Implemented wallet connections & NFT minting for 50K+ users  
 - Built React dashboard with real-time analytics ([Demo](#) | [Code](#))  
+
+### 2. Simpsocial CRM Project
+**Tech** React, ChakraUI
 
 ### 3. SuiteCRM QuickBooks Integration (Rolustech)
 **Tech:** PHP, SuiteCRM, REST APIs  
